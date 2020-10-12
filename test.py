@@ -157,7 +157,7 @@ def generate_html(album_art_urls, path, song_names, css_file_name):
     write_to_file(file_path, "<html>")
 
     head = "<head>" \
-           "<title>kiddine p[orn</title>" \
+           "<title>title</title>" \
            "<link rel='stylesheet' href='" + css_file_name + "' type='text/css' />" \
            "</head>"
 
